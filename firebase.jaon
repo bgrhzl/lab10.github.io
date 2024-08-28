@@ -1,0 +1,8 @@
+{
+  "hosting": {
+    "site": "lab10-6c689-f017e",
+
+    "public": "public",
+    ...
+  }
+}
